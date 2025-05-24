@@ -1,0 +1,9 @@
+CasaSol A001 Carlos_Ruiz Antioquia Medellín casa Calle45#12-30 180000 ascensor,piscina,parqueadero 2025-06-10,2025-06-11,2025-07-01,2025-07-02
+
+ApartamentoLuna A002 Ana_Gómez Cundinamarca Bogotá apartamento Carrera9#100-12 250000 aire_acondicionado,caja_fuerte,ascensor 2025-08-15,2025-08-16,2025-08-17
+
+VillaMarAzul A003 Luis_Martínez Magdalena Santa_Marta casa Km12víaalRodadero 350000 piscina,patio,parqueadero,aire_acondicionado 2025-12-24,2025-12-25,2025-12-26,2025-12-27
+
+ApartamentoCentral A004 Juliana_Torres ValledelCauca Cali apartamento Av.3Norte#45-60 220000 ascensor,caja_fuerte,aire_acondicionado 2025-09-10,2025-09-11
+
+CabañaElRefugio A005 Mateo_Ríos Boyacá VilladeLeyva casa Vereda El RobleKm3 160000 patio,parqueadero,caja_fuerte 2025-07-20,2025-07-21,2025-07-22

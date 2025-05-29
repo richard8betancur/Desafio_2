@@ -1,2 +1,4 @@
-H 103 Salome 30 24 4.5 4
-H 104 Andres 28 12 4.3 2
+H 105 Salome_Bedoya 30 24 4.5 4
+H 106 Andres_Marin 28 12 4.3 2
+H 107 Santiago_Betancur 30 24 4.5 5
+H 108 Anderson_Ruiz 45 36 4.9 3

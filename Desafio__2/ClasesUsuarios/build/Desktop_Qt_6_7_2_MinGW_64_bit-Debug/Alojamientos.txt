@@ -1,9 +1,9 @@
-CasaSol A001 Carlos_Ruiz Antioquia Medellin casa Calle45#12-30 180000 ascensor,piscina,parqueadero Jueves,03-de-julio-del-2025_Viernes,04-de-julio-del-2025
+CasaSol 1001 Carlos_Ruiz Antioquia Medellin casa Calle45#12-30 180000 ascensor,piscina,parqueadero Jueves,03-de-julio-del-2025_Viernes,04-de-julio-del-2025
 
-ApartamentoLuna A002 Ana_Gómez Cundinamarca Bogota apartamento Carrera9#100-12 250000 aire_acondicionado,caja_fuerte,ascensor Sabado,05-de-julio-del-2025_Domingo,06-de-julio-del-2025
+ApartamentoLuna 1002 Ana_Gomez Cundinamarca Bogota apartamento Carrera9#100-12 250000 aire_acondicionado,caja_fuerte,ascensor Sabado,05-de-julio-del-2025_Domingo,06-de-julio-del-2025
 
-VillaMarAzul A003 Luis_Martínez Magdalena Santa_Marta casa Km12víaalRodadero 350000 piscina,patio,parqueadero,aire_acondicionado Lunes,07-de-julio-del-2025_Martes,08-de-julio-del-2025
+VillaMarAzul 1003 Luis_Martinez Magdalena Santa_Marta casa Km12víaalRodadero 350000 piscina,patio,parqueadero,aire_acondicionado Lunes,07-de-julio-del-2025_Martes,08-de-julio-del-2025
 
-ApartamentoCentral A004 Juliana_Torres ValledelCauca Cali apartamento Av.3Norte#45-60 220000 ascensor,caja_fuerte,aire_acondicionado Miercoles,09-de-julio-del-2025_Jueves,10-de-julio-del-2025
+ApartamentoCentral 1004 Juliana_Torres ValledelCauca Cali apartamento Av.3Norte#45-60 220000 ascensor,caja_fuerte,aire_acondicionado Miercoles,09-de-julio-del-2025_Jueves,10-de-julio-del-2025
 
-CabañaElRefugio A005 Mateo_Ríos Boyaca VilladeLeyva casa Vereda_El_RobleKm3 160000 patio,parqueadero,caja_fuerte Viernes,11-de-julio-del-2025_Sabado,12-de-julio-del-2025
+CabañaElRefugio 1005 Mateo_Rios Boyaca VilladeLeyva casa Vereda_El_RobleKm3 160000 patio,parqueadero,caja_fuerte Viernes,11-de-julio-del-2025_Sabado,12-de-julio-del-2025

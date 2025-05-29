@@ -1,3 +1,5 @@
-A 101 Laura 30 24 4.5 5
-A 102 Carlos 45 36 4.9 3
-
+A 101 Carlos_Ruiz 30 24 4.5 5
+A 102 Ana_Gomez 45 36 4.9 3
+A 103 Luis_Martinez 45 36 4.9 3
+A 104 Mateo_Rioz 45 36 4.9 3
+A 105 Juliana_Torres 23 37 4.8 3
